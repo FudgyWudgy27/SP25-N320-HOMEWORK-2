@@ -1,6 +1,13 @@
 {
   "name": "sp25-create-doohickey",
-  "version": "1.0.0",
+  "version": "0.1.0",
+  "bin": {
+    "create-doohickey": "./index.js"
+  },
+  "files": [
+    "index.js",
+    "readme.md"
+  ],
   "main": "index.js",
   "scripts": {
     "start":"node index.js"

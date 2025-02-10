@@ -12,5 +12,4 @@ Once the module has been installed, you will need to follow these steps:
  ### Files included
 
 index.js
-package.json
 readme.md
